@@ -2,7 +2,7 @@
 
 1.) picoCTF :
 
-picoCTF2019
-picoCTF2018
+i.) picoCTF2019
+ii.) picoCTF2018
 
 2.) OverTheWire:Bandit
